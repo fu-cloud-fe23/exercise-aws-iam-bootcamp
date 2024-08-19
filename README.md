@@ -1,6 +1,6 @@
 # AWS IAM Bootcamp
 
-## Basics
+## IAM Basics
 
 1. Skapa en IAM User med namnet “Batman” och alla rättigheter för EC2
 
@@ -16,7 +16,7 @@
 
 7. Skapa en IAM Role som litar på Lambda och som får läsa och skriva i en DynamoDb databas samt hantera allt om EventBridge
 
-## Mer än Basic
+## Policys - Mer än Basic
 
 8. Skapa en IAM Policy med namnet “DynamoDb reader” som tillåter läsrättigheter i DynamoDBs samtliga tabeller
 
